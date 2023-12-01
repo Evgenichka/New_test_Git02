@@ -1,4 +1,3 @@
-# Контроль версий углублённо (GIT) (семинары)
 # Задача 44:
 # В ячейке ниже представлен код генерирующий DataFrame, 
 # которая состоит всего из 1 столбца. 
@@ -7,7 +6,7 @@
 
 import pandas as pd 
 import numpy as np 
-
+import random
  
 lst = ['robot'] * 10
 lst += ['human'] * 10
